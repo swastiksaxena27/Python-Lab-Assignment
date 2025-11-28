@@ -1,6 +1,0 @@
-
-EXECUTIVE SUMMARY
------------------
-Total Consumption: 834.70
-Highest Consumer: Science (834.70)
-Peak Load: 65.00
